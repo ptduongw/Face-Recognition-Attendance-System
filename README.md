@@ -1,4 +1,5 @@
-# TTCS_ChamCong
+# Face Recognition Attendance System
+
 
 ## Tổng quan
 
